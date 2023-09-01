@@ -6,7 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 	<ItemGroup>
-		<PackageReference Include="OrchardCore.Application.Cms.Core.Targets" Version="1.5.0" />
-		<PackageReference Include="OrchardCore.Translations.ar" Version="1.5.0" />
+		<PackageReference Include="OrchardCore.Application.Cms.Core.Targets" Version="1.6.0" />
+		<PackageReference Include="OrchardCore.Translations.zh-Hans" Version="1.6.1" />
+		<PackageReference Include="Etch.OrchardCore.Blocks" Version="1.7.0" />
 	</ItemGroup>
 </Project>
